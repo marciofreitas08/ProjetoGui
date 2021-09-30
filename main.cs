@@ -7,8 +7,10 @@ class Program {
     //
     IDimensionavel minhaModal2 = new Modal();
     IDimensionavel minhaCombobox2 = new Combobox();
+    Iconfiguravel minhaCombobox3 = new Combobox();
+    Iconfiguravel minhaModal3 = new Modal();
 
     List<IDimensionavel> meusComponentes = new List<IDimensionavel>{minhaModal2, minhaCombobox2};
-    
+  
   }
 }
